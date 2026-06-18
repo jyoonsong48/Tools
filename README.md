@@ -35,3 +35,9 @@ $\text{: Check if a mutation is pathogenic}$
 <br> $\text{2. Press 🔍 Check Pathogenicity button)}$
 <br> $\text{3. Check the results! (You can also check details on Uniprot by clicking Search button. O(∩ㅅ∩)O)}$
 </details>
+
+### $\text{📍 SUMMED.ai}$
+$\text{: Summrisation and Trend chart for publications on PubMed}$
+<br> 🔗 <kbd> [![SUMMED.ai](https://img.shields.io/badge/🔬-97BFB4?style=for-the-badge)](https://summedai.streamlit.app/) </kbd>
+<br> $\text{More Info:}$
+<br> <kbd> [![SUMMED.ai-readme](https://img.shields.io/badge/CLICK!-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/summed.ai/blob/main/README.md) </kbd>
