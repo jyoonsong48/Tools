@@ -33,5 +33,5 @@ $\text{: Check if a mutation is pathogenic}$
 <details><summary>$\color{#fffff}{\text{How to use:}}$ </summary>
 <br> $\text{1. Fill in the required info.}$
 <br> $\text{2. Press 🔍 Check Pathogenicity button)}$
-<br> $\text{3. Check the results! (You can also check details on Uniprot by clicking Search button. O(∩_∩)O)}$
+<br> $\text{3. Check the results! (You can also check details on Uniprot by clicking Search button. O(∩ㅅ∩)O)}$
 </details>
