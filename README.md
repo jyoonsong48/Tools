@@ -44,8 +44,9 @@ $\text{: Summrisation and Trend chart for publications on PubMed}$
 
 ### $\text{📍 Omikuji}$
 $\text{: See today's luck, lucky number, and colour}$
-<br> ENG ver.🔗 <kbd> [![omikuji-eng](https://img.shields.io/badge/🎐-97BFB4?style=for-the-badge)](https://omikuji-eng.streamlit.app/) </kbd>
-<br> KOR ver.🔗 <kbd> [![omikuji-kor](https://img.shields.io/badge/🎐-97BFB4?style=for-the-badge)](https://omikuji-kor.streamlit.app/) </kbd>
+<br> $\text{ENG ver.}$ 🔗 <kbd> [![omikuji-eng](https://img.shields.io/badge/🎐-97BFB4?style=for-the-badge)](https://omikuji-eng.streamlit.app/) </kbd>
+<br> $\text{KOR ver.}$ 🔗 <kbd> [![omikuji-kor](https://img.shields.io/badge/🎐-97BFB4?style=for-the-badge)](https://omikuji-kor.streamlit.app/) </kbd>
+
 <br> $\text{More Info:}$
 <br> <kbd> ENG [![eng-readme](https://img.shields.io/badge/CLICK!-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/omikuji-eng/blob/main/README.md) </kbd>
 <br> <kbd> KOR [![kor-readme](https://img.shields.io/badge/CLICK!-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/omikuji-kor/blob/main/README.md) </kbd>
