@@ -37,7 +37,7 @@ $\text{: Check if a mutation is pathogenic}$
 </details>
 
 ### $\text{📍 SUMMED.ai}$
-$\text{: Summrisation and Trend chart for publications on PubMed}$
+$\text{: Summarisation and and Trend chart for publications on PubMed}$
 <br> 🔗 <kbd> [![SUMMED.ai](https://img.shields.io/badge/🔬-97BFB4?style=for-the-badge)](https://summedai.streamlit.app/) </kbd>
 <br> $\text{More Info:}$
 <br> <kbd> [![SUMMED.ai-readme](https://img.shields.io/badge/CLICK!-97BFB4?style=for-the-badge)](https://github.com/jyoonsong48/summed.ai/blob/main/README.md) </kbd>
